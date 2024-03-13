@@ -1,0 +1,42 @@
+{
+    "PageName": "ABOUT",
+    "ReturnBtnSetup": {
+        "isVisible": true,
+        "BgImagePath": "./assets/images/Pages/About/Return_Btn_BG_Img.png",
+        "ImagePath": "./assets/images/Pages/About/Return_Btn_Img.png",
+        "ImageAlternativeText": "На главную",
+        "LinkPath": "main"
+    },
+    "Row1Data": {   
+        "isVisible": true,
+        "Photos": [
+            {
+                "isVisible": true,
+                "BgImagePath": "./assets/images/Pages/About/Photo_Img_BG.png",
+                "ImagePath": "./assets/images/Pages/About/Photo_Img_1.png",
+                "ImageCaption": "Иду из магазина",
+                "ImageAlternativeText": "Обо мне 1"
+            },
+            {
+                "isVisible": true,
+                "BgImagePath": "./assets/images/Pages/About/Photo_Img_BG.png",
+                "ImagePath": "./assets/images/Pages/About/Photo_Img_2.png",
+                "ImageCaption": "Выбираю материал ",
+                "ImageAlternativeText": "Обо мне 2"
+            }
+        ]
+    },
+    "Row2Data" : {
+        "isVisible": false,
+        "BgImagePath" : "./assets/images/Pages/About/TextBlock_BG.png",
+        "HeaderText" : "Обо мне",
+        "DescriptionText": "Устав от дней сурка и  офисных будней в голову пришла идея попробовать творить настоящие кожевенные изделия. Поглядев на работы брендованных мастеров и прочитав довольно много иностранной литературы, взялся за дело. Первые изделия были довольно простые, подложки на стол, миски под подстаканники или мелочевку, чехлы на зажигалки. По мере приобретения навыков решил взяться за изготовления ремней из черной кожи хромого дубления. На удивление работа давалась хорошо, хоть и шла крайне медленно. Получив восторженные отзывы решил и дальше сосредоточиться на изготовлении ремней. По мере роста навыка появились заказы на ремни различной цветовой гаммы и ширины. Для меня изготовление кожевенных изделий это ретрит, медитация от повседневного мира ИТ. Отдельно благодарю свою дорогую жену за поддержку, идеи и помощь в создании крафтовых вещей, без неё я бы не сделал первый шаг по развитию в себе навыков по работе с кожей!"
+    },
+    "ContactMe" : {
+        "isVisible" : true ,
+        "ImagePath" : "./assets/images/Pages/About/About_Contacts_BG2.png", 
+        "ImageCaption" : "Напишите мне", 
+        "ImageAlternativeText": "Напишите мне"
+    }
+    
+}

@@ -1,0 +1,212 @@
+{
+    "PageName": "MYWORKS",
+    "ReturnBtnSetup": {
+        "isVisible": true,
+        "BgImagePath": "./assets/images/Pages/MyWorks/Return_Btn_BG_Img.png",
+        "ImagePath": "./assets/images/Pages/MyWorks/Return_Btn_Img.png",
+        "ImageAlternativeText": "На главную",
+        "LinkPath": "main"
+    },
+
+    "HeaderRow" : {
+        "isVisible" : true,
+        "ImagePath" : "./assets/images/Pages/MyWorks/Page_Header_img.png",
+        "ImageAlternativeText": "Header row image"
+    },
+
+
+    "MyWorksItems": [
+        {
+            "IsVisible": true,
+
+            "ReturnBtnSetup": {
+                "isVisible": true,
+                "BgImagePath": "./assets/images/Pages/MyWorks/Return_Btn_BG_Img.png",
+                "ImagePath": "./assets/images/Pages/MyWorks/Return_Btn_Img.png",
+                "ImageAlternativeText": "Мои работы",
+                "LinkPath": "myWorks"
+            },
+
+            "HeaderRow" : {
+                "isVisible" : true,
+                "ImagePath" : "",
+                "ImageAlternativeText": "Header row image",
+                "BGImagePath" : "./assets/images/Pages/MyWorks/Page_Header_BG.png"
+            },
+            "ContactMe" : {
+                "isVisible": true,
+                "ImagePath": "./assets/images/Pages/MyWorks/Contacts_BG2.png",
+                "ImageCaption": "Напишите мне",
+                "ImageAlternativeText": "Напишите мне"
+            },
+
+
+            "MainImagePath": "./assets/images/Pages/MyWorks/Accessories/Accessories_Base.png",
+            "MainImageBackgroundImgPath" : "./assets/images/Pages/MyWorks/Img_BG.png",
+            "MainImageCaption": "Аксессуары",
+            "MainImageAlternativeText": "Фото Аксесуары",
+            "DescriptionBlock": "Ниже представлены изделия для портфолио. Вы можете заказать ремень с любой комбинацией фурнитуры, строчки, винтов, из широкой цветовой гаммы и, конечно, любой ширины.",
+          
+
+
+
+            "InnerImages": [
+                {
+                    "ID": 1,
+                    "IsVisible" : true,
+                    "ImagePath": "./assets/images/Pages/MyWorks/Accessories/RelatedImages/Item1-main.jpg",
+                    "AlternativeImagePath" : "./assets/images/Pages/MyWorks/Accessories/RelatedImages/Item1-main-alt.jpg",
+                    "ImageCaption": "Стильный кошелек ",
+                    "ShortDescription": "Стильный кошелек с зажимом для купюр и цветным швом",
+                    "Price": {
+                        "PriceValue": 1000,
+                        "CurrencySymbol": "Руб."
+                    },
+                    "RelatedGellaryImagesPathes" : [
+                        "./assets/images/Pages/MyWorks/Accessories/RelatedImages/Item1-1.jpg", 
+                        "./assets/images/Pages/MyWorks/Accessories/RelatedImages/Item1-2.jpg",
+                        "./assets/images/Pages/MyWorks/Accessories/RelatedImages/Item1-3.jpg"
+                    ]
+                },
+                
+                {
+                    "ID":2,
+                    "IsVisible" : true,
+                    "ImagePath": "./assets/images/Pages/MyWorks/Accessories/RelatedImages/Item3-main.jpg",
+                    "AlternativeImagePath" :"",
+                    "ImageCaption": "Красный двухстороннийкартхолдер with one",
+                    "ShortDescription": "Красный1 двухстороннийкартхолдер на 4 карты с отсеком под купюры.Красный двухсторонний картхолдер на 4 карты с отсеком под купюры.Красный двухсторонний картхолдер на 4 карты с отсеком под купюры",
+                    "Price": {
+                        "PriceValue": 3000,
+                        "CurrencySymbol": "Руб."
+                    },
+                    "RelatedGellaryImagesPathes" : [
+                        "./assets/images/Pages/MyWorks/Accessories/RelatedImages/Item3-1.jpg",
+                        "./assets/images/Pages/MyWorks/Accessories/RelatedImages/Item3-2.jpg"
+                    ]
+                },
+                {
+                    "ID":3,
+                    "IsVisible" : true,
+                    "ImagePath": "./assets/images/Pages/MyWorks/Accessories/RelatedImages/Item2-main.jpg",
+                    "AlternativeImagePath" :"",
+                    "ImageCaption": "Зеленый картхолдер",
+                    "ShortDescription": "Зеленый картхолдер из натуральной кожи с инициалами",
+                    "Price": {
+                        "PriceValue": 2000,
+                        "CurrencySymbol": "Руб."
+                    },
+                    "RelatedGellaryImagesPathes" : [
+                        "./assets/images/Pages/MyWorks/Accessories/RelatedImages/Item2-1.jpg",
+                        "./assets/images/Pages/MyWorks/Accessories/RelatedImages/Item2-2.jpg",
+                        "./assets/images/Pages/MyWorks/Accessories/RelatedImages/Item2-3.jpg"
+                    ]
+                }
+            ]
+        },
+
+        {
+            "IsVisible": true,
+
+            "ReturnBtnSetup": {
+                "isVisible": true,
+                "BgImagePath": "./assets/images/Pages/MyWorks/Return_Btn_BG_Img.png",
+                "ImagePath": "./assets/images/Pages/MyWorks/Return_Btn_Img.png",
+                "ImageAlternativeText": "Мои работы",
+                "LinkPath": "myWorks"
+            },
+
+            "HeaderRow" : {
+                "isVisible" : true,
+                "ImagePath" : "",
+                "ImageAlternativeText": "Header row image",
+                "BGImagePath" : "./assets/images/Pages/MyWorks/Page_Header_BG.png"
+            },
+            "ContactMe" : {
+                "isVisible": true,
+                "ImagePath": "./assets/images/Pages/MyWorks/Contacts_BG2.png",
+                "ImageCaption": "Напишите мне",
+                "ImageAlternativeText": "Напишите мне"
+            },
+
+            "MainImagePath": "./assets/images/Pages/MyWorks/Interior/Interior_Base.png",
+            "MainImageBackgroundImgPath" : "./assets/images/Pages/MyWorks/Img_BG.png",
+            "MainImageCaption": "Интерьер",
+            "MainImageAlternativeText": "Фото Интерьер",
+            "DescriptionBlock": "Вещи сделанные из кожи придают интерьеру богатство и статус. Все изделия обработаны влагозащитными кремами. Ниже представлены доступные для заказа изделия. Цвета и толщина кожи обсуждается по индивидуальным препочтениям.",
+            
+            "InnerImages": [
+                {
+                    "ImagePath": "",
+                    "ImageCaption": "",
+                    "ShortDescription": "",
+                    "Price": {
+                        "PriceValue": 0,
+                        "CurrencySymbol": "Руб."
+                    }
+                }
+            ]
+        },
+
+        {
+            "IsVisible": true,
+
+            "ReturnBtnSetup": {
+                "isVisible": true,
+                "BgImagePath": "./assets/images/Pages/MyWorks/Return_Btn_BG_Img.png",
+                "ImagePath": "./assets/images/Pages/MyWorks/Return_Btn_Img.png",
+                "ImageAlternativeText": "Мои работы",
+                "LinkPath": "myWorks"
+            },
+
+            "HeaderRow" : {
+                "isVisible" : true,
+                "ImagePath" : "",
+                "ImageAlternativeText": "Header row image",
+                "BGImagePath" : "./assets/images/Pages/MyWorks/Page_Header_BG.png"
+            },
+            "ContactMe" : {
+                "isVisible": true,
+                "ImagePath": "./assets/images/Pages/MyWorks/Contacts_BG2.png",
+                "ImageCaption": "Напишите мне",
+                "ImageAlternativeText": "Напишите мне"
+            },
+
+            "MainImagePath": "./assets/images/Pages/MyWorks/Other/Other_Base.png",
+            "MainImageBackgroundImgPath" : "./assets/images/Pages/MyWorks/Img_BG.png",
+            "MainImageCaption": "Разное",
+            "MainImageAlternativeText": "Фото разное",
+            "DescriptionBlock": "В этом разделе представлены изделия из натуриальной кожи, которые тяжело отнести к другим разделам сайта. Большинство вещей было изготовлено как авторские подарки",
+            
+            "InnerImages": [
+                {
+                    "ImagePath": "",
+                    "ImageCaption": "",
+                    "ShortDescription": "",
+                    "Price": {
+                        "PriceValue": 0,
+                        "CurrencySymbol": "Руб."
+                    }
+                }
+            ]
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+    "ContactMe": {
+        "isVisible": true,
+        "ImagePath": "./assets/images/Pages/MyWorks/Contacts_BG2.png",
+        "ImageCaption": "Напишите мне",
+        "ImageAlternativeText": "Напишите мне"
+    }
+}

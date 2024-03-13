@@ -1,0 +1,26 @@
+[
+    {
+        "PageName" : "Main",
+        "PageDataUrl" : "./assets/Data-Json/MainPage.json"
+    },
+    {
+        "PageName" : "Navigation",
+        "PageDataUrl" : "./assets/Data-Json/NavigationBar.json"
+    },
+    {
+        "PageName" : "About",
+        "PageDataUrl" : "./assets/Data-Json/About.json"
+    },
+    {
+        "PageName" : "ContactInfo",
+        "PageDataUrl" : "./assets/Data-Json/ContactInformation.json"
+    },
+    {
+        "PageName" : "WorkProcess",
+        "PageDataUrl" :"./assets/Data-Json/WorkProcessPage.json"
+    },
+    {
+        "PageName" : "MYWORKS",
+        "PageDataUrl" :"./assets/Data-Json/WorksPage.json"
+    }
+]

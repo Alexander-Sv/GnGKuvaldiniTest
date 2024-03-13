@@ -1,0 +1,98 @@
+
+{
+    "PageName": "WORKPROCESS",
+
+    "ReturnBtnSetup": {
+        "isVisible": true,
+        "BgImagePath": "./assets/images/Pages/About/Return_Btn_BG_Img.png",
+        "ImagePath": "./assets/images/Pages/About/Return_Btn_Img.png",
+        "ImageAlternativeText": "На главную",
+        "LinkPath": "main"
+    },
+
+    "HeaderRow" : {
+        "isVisible" : true,
+        "ImagePath" : "./assets/images/Pages/WorkProcess/img_Header.png",
+        "ImageAlternativeText": "Header row image"
+    },
+
+    "Row1Data" : {
+        "isVisible" : true,
+        "TextBlock" : {
+            "HeaderData" : "Обсуждение закза",
+            "TextData": "Вы присылаете свои пожелания и варианты  Вы присылаете свои пожелания и вариантыВы присылаете свои пожелания и вариантыВы присылаете свои пожелания и варианты...",
+            "TextBlockBGImagePath" : "./assets/images/Pages/WorkProcess/Text_BG.png",
+            "Pin" : {
+                "isVisible" : false,
+                "PinImagePath" : "./assets/images/Pages/WorkProcess/Pin_red.png"
+            }
+        },
+        "PhotoBlock" : {
+            "BGImagePath" : "./assets/images/Pages/WorkProcess/Photo_Img_BG.png",
+            "PhotoPath": "./assets/images/Pages/WorkProcess/img_3.png", 
+            "PhotoCaptionText" : "Photo in row 1 Alt text",
+            "PositionUnderText" : false,
+            "Pin" : {
+                "isVisible" : true,
+                "PinImagePath" : "./assets/images/Pages/WorkProcess/Pin_red.png"
+            }
+        }
+    },
+
+
+    "Row2Data" : {
+        "isVisible" : true,
+        "TextBlock" : {
+            "HeaderData" : "Подбор материалов",
+            "TextData": "Я планирую выезд на кожевенные базы и подбор фурнитуры ... Я планирую выезд на кожевенные базы и подбор фурнитуры ... Я планирую выезд на кожевенные базы и подбор фурнитуры ... Я планирую выезд на кожевенные базы и подбор фурнитуры ...",
+            "TextBlockBGImagePath" : "./assets/images/Pages/WorkProcess/Text_BG.png", 
+            "Pin" : {
+                "isVisible" : true,
+                "PinImagePath" : "./assets/images/Pages/WorkProcess/Pin_green.png"
+            }
+        },
+        "PhotoBlock" : {
+            "BGImagePath" : "./assets/images/Pages/WorkProcess/Photo_Img_BG.png",
+            "PhotoPath": "./assets/images/Pages/WorkProcess/img_1.png", 
+            "PhotoCaptionText" : "Photo in row 2 Alt text",
+            "PositionUnderText" : false,
+            "Pin" : {
+                "isVisible" : false,
+                "PinImagePath" : "./assets/images/Pages/WorkProcess/Pin_green.png"
+            }
+        }
+    },
+
+
+    "Row3Data" : {
+        "isVisible" : true,
+        "TextBlock" : {
+            "HeaderData" : "Изготовление",
+            "TextData": "Я вам присылаю, по желанию, фотографии процесса изговления изделия.     ... Я вам присылаю, по желанию, фотографии процесса изговления изделия.     ... Я вам присылаю, по желанию, фотографии процесса изговления изделия.     ... Я вам присылаю, по желанию, фотографии процесса изговления изделия.     ...",
+            "TextBlockBGImagePath" : "./assets/images/Pages/WorkProcess/Text_BG.png",
+            "Pin" : {
+                "isVisible" : false,
+                "PinImagePath" : "./assets/images/Pages/WorkProcess/Pin_blue.png"
+            }
+        },
+        "PhotoBlock" : {
+            "BGImagePath" : "./assets/images/Pages/WorkProcess/Photo_Img_BG.png",
+            "PhotoPath": "./assets/images/Pages/WorkProcess/img_4.png", 
+            "PhotoCaptionText" : "Photo in row 3 Alt text",
+            "PositionUnderText" : false,
+            "Pin" : {
+                "isVisible" : true,
+                "PinImagePath" : "./assets/images/Pages/WorkProcess/Pin_blue.png"
+            }
+        }
+    },
+
+
+
+    "ContactMe" : {
+        "isVisible" : true ,
+        "ImagePath" : "./assets/images/Pages/WorkProcess/WorkProcess_Contacts_BG2.png", 
+        "ImageCaption" : "Напишите мне", 
+        "ImageAlternativeText": "Напишите мне"
+    }
+}

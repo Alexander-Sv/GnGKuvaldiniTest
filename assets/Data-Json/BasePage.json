@@ -1,0 +1,6 @@
+{
+    "Title" : "GnG-Kuva",
+    "BackgrouundImagePath" : "./assets/images/BaseForAll/main_background_no_border.jpg",
+    "BackgrouundImageAltText" : "GnG-Kuvaldini BackGround Image",
+    "PagesListConfig": "./assets/Data-Json/PagesConfig.json"
+}

@@ -1,0 +1,38 @@
+{
+    "PageName": "CONTACTINFO",
+
+    "BgImagePath": "./assets/images/ContactModal/Modal-Contacts_BG.png",
+    "ContainerBGImageTextPath": "./assets/images/ContactModal/Modal-Container_BG.png",
+    
+
+    "ContactPhone": "+7(903) 555-44-33",
+    "PhoneImagePath": "./assets/images/ContactModal/phone.png",
+    "ContactPhone_Lbl": "Мой телефон:",
+
+    "ContactEMail": "Kuvaldini@mail.ru",
+    "ContactEmail_Lbl": "Или на eMail  ",
+    "ContainerBGImagePath": "",
+    "ContactEMailPlaceholder" : "Ваш eMail",
+    "ContactEMailMessagePlaceholder" : "Ваши пожелания",
+    
+    "TargetEMail": "https://formspree.io/f/xdorkdek",
+    "SosialLbL" : "Напишите мне тут",
+    "SosialLinks": [
+        {
+            "SosialHref": "",
+            "SosialIconPath": "./assets/images/ContactModal/telegram.png"
+        },
+        {
+            "SosialHref": "",
+            "SosialIconPath": "./assets/images/ContactModal/whatsapp.png"
+        },
+        {
+            "SosialHref": "",
+            "SosialIconPath": "./assets/images/ContactModal/vkontakt.png"
+        }
+    ],
+
+    "EmailSubmitBtnText" : "Отправить",
+    "SubmitSuccessResultMessage" : "Ваше сообщение отправлено успешно!",
+    "SubmitFailResultMessage" : "Ваше сообщение не отправлено!"
+}

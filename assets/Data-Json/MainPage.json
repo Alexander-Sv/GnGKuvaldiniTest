@@ -1,0 +1,27 @@
+
+
+
+{
+    "PageName" : "MAIN",
+    "Row1Data": {
+        "mainPhotoBGPath": "./assets/images/Pages/Main/Govani_Foto_background.png",
+        "mainPhotoPath": "./assets/images/Pages/Main/Govani_Foto.png",
+        "mainPhotoAltText": "GnG Main Photo",
+        "mainLogoPath": "./assets/images/Pages/Main/Govani_Logo.png",
+        "mainLogoAltText": "GnG Main Logo"
+    },
+    "Row2Data": {
+        "mainTextImagePath": "./assets/images/Pages/Main/Main_Description.png",
+        "mainTextImageAlteText": "GnG Main Description",
+        "mainInstrument01ImagePath": "./assets/images/Pages/Main/Main_Instrument_01.png",
+        "mainInstrument01AltText": ""
+    },
+    "Row3Data": {
+        "mainInstrument02ImagePath": "./assets/images/Pages/Main/Main_Instrument_02.png",
+        "mainInstrument02AltText": "",
+        "mainContactBG1ImagePath": "./assets/images/Pages/Main/Main_Contacts_BG1.png",
+        "mainContactBG2ImagePath": "./assets/images/Pages/Main/Main_Contacts_BG2.png",
+        "mainContactImagePath": "./assets/images/Pages/Main/Main_Contacts_Image.png",
+        "mainContactAltText": "Contact Me Img"
+    }
+}

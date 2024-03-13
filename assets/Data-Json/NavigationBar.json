@@ -1,0 +1,29 @@
+{
+    "PageName" : "Navigation",
+
+    "MenuButtonOpenPath": "./assets/images/NavPanel/menu_Button_Burger.png",
+    "MenuButtonClosePath": "./assets/images/NavPanel/menu_Button_Close.png",
+    "NavigationLinks": [
+        {
+            "LinkName": "About_Me",
+            "LinkCaption": "Обо мне",
+            "NavBGImagePath": "./assets/images/NavPanel/Nav-Item-BGImg.png",
+            "NavBGImagePathSmallView": "./assets/images/NavPanel/Nav-Item-BGImg-SmallView.png",
+            "LinkPath": "about"
+        },
+        {
+            "LinkName": "My_Works",
+            "LinkCaption": "Мои Работы",
+            "NavBGImagePath": "./assets/images/NavPanel/Nav-Item-BGImg.png",
+            "NavBGImagePathSmallView": "./assets/images/NavPanel/Nav-Item-BGImg-SmallView.png",
+            "LinkPath": "myWorks"
+        },
+        {
+            "LinkName": "Work_Process",
+            "LinkCaption": "Рабочий Процесс",
+            "NavBGImagePath": "./assets/images/NavPanel/Nav-Item-BGImg.png",
+            "NavBGImagePathSmallView": "./assets/images/NavPanel/Nav-Item-BGImg-SmallView.png",
+            "LinkPath": "workProcess"
+        }
+    ]
+}
